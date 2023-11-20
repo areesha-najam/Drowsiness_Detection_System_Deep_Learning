@@ -10,5 +10,6 @@ food and estimate its portion sizes using deep learning techniques.
 Our goal is to compile a database of traditional Pakistani recipes
 so that citizens may acquire the nutrition information they need
 to lead healthy lives.
-Index Terms—Serving size, Pakistani Recipe, Nutritional
+####Index Terms
+Serving size, Pakistani Recipe, Nutritional
 needs, Eating behavior, Healthy lifestyle
