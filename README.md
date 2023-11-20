@@ -1,8 +1,6 @@
 # Drowsiness_Detection_System_Deep_Learning
-Several countries have provided nutritional infor-
-mation regarding serving sizes to encourage citizens to make
-healthier food choices. Knowing how serving size correlates
-with the other factors influencing dietary intake is important.
+Several countries have provided nutritional information regarding serving sizes to encourage citizens to make
+healthier food choices. Knowing how serving size correlates with the other factors influencing dietary intake is important.
 Particular attention should be paid to the effect of portion size
 on calorie intake, as numerous extraneous factors exist, and it
 must be clearly stated that portion size is the primary issue.
